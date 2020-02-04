@@ -1,7 +1,7 @@
 # Grundlagen
 
 ## Ansehen der Seite (public)
-[](https://kasenute.github.io/kochbuch/)
+[Ansehen der Seite (public)](https://kasenute.github.io/kochbuch/)
   
 ## Editieren der Seite (Kennwort)
 https://github.com/kasenute/kochbuch
