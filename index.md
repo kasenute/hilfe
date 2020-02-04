@@ -11,6 +11,7 @@ https://github.com/kasenute/kochbuch
 ## HTML
 * MDN https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics
 * PDF - Einstieg https://simon-tiffert.de/html_fuer_anfaenger_01.pdf
+* w3schools https://www.w3schools.com/
 
 ## CSS
 * MDN https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/CSS_basics
@@ -21,3 +22,6 @@ https://github.com/kasenute/kochbuch
 * Einführung in JavaScript https://molily.de/js/
 * MDN https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/JavaScript_basis
   
+# Tools
+CodePen https://codepen.io/
+W3C-Code-Editor  https://www.w3schools.com/tryit/
